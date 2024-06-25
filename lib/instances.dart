@@ -11,6 +11,7 @@ const List<String> instances = [
   'feddit.it',
   'feddit.nl',
   'feddit.nu',
+  'feddit.org',
   'feddit.uk',
   'hexbear.net',
   'infosec.pub',
